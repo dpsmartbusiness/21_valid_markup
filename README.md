@@ -1,6 +1,6 @@
 # Site of Real Estate Agency
 
-Welcome to [ESTATE AGENCY](https://dpsmartbusiness.github.io)
+Welcome to [ESTATE AGENCY](https://dpsmartbusiness.github.io/agency)
 
 # Project Goals
 
